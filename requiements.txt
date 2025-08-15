@@ -1,0 +1,13 @@
+Bibliotecas necessárias:
+Para o C:
+stdio.h
+string.h
+stdbool.h
+time.h
+stdlib.h
+
+Para o Python:
+pywhatkit
+sys
+pywhatkit
+datetime
